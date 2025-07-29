@@ -1,0 +1,28 @@
+🔔 ALARM CLOCK - QUICK RUN COMMANDS
+=====================================
+
+INSTALL DEPENDENCIES:
+pip install -r requirements.txt
+
+RUN THE APPLICATION:
+python alarm_clock.py
+
+TEST THE INSTALLATION:
+python test_alarm.py
+
+ALTERNATIVE COMMANDS:
+python3 alarm_clock.py
+py alarm_clock.py
+
+WINDOWS ONE-CLICK:
+run_alarm_clock.bat
+
+LINUX/MAC ONE-CLICK:
+./run_alarm_clock.sh
+
+VIRTUAL ENVIRONMENT:
+python -m venv alarm_env
+alarm_env\Scripts\activate  # Windows
+source alarm_env/bin/activate  # Linux/Mac
+pip install -r requirements.txt
+python alarm_clock.py 
