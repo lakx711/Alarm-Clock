@@ -202,3 +202,6 @@ This project is open source and available under the MIT License.
   - Custom audio files
   - Snooze functionality
   - Modern GUI interface 
+
+## Project By:
+Lakshit Soni
